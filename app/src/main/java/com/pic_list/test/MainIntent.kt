@@ -24,6 +24,9 @@ sealed class MainState {
 
     object Loading: MainState()
 
+    data class Users(val user: List<Any>) : MainState()
+    data class Error(val error: String?) : MainState()
+
 
 
 }
