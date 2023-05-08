@@ -1,7 +1,8 @@
-package com.pic_list
+package com.pic_list.presentation
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.pic_list.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
