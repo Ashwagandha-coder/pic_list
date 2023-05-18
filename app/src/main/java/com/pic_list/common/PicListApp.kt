@@ -1,4 +1,4 @@
-package com.pic_list.presentation.app
+package com.pic_list.common
 
 import android.app.Application
 
