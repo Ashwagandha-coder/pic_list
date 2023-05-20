@@ -3,9 +3,9 @@ An Implementation of the MVI Android architecture </br>
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-Code Structure
----------------
-![Diagramme package](https://user-images.githubusercontent.com/16986563/97868124-72a40980-1d0f-11eb-9002-91e12f4caa4d.png)
+# Architechture
+![mvi_cyclic-49d9f8c2d3fe26b7](https://github.com/Ashwagandha-coder/pic_list/assets/58209188/1e71e15e-7d5e-4792-b926-fe49f821b0a2)
+
 
 Used Libs
 ---------------
