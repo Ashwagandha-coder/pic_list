@@ -9,9 +9,6 @@ import com.simple.mvi.features.home.reduce
 import kotlinx.coroutines.flow.collect
 import javax.inject.Inject
 
-/**
- * Created by Rim Gazzah on 8/26/20.
- **/
 class HomeViewModel @Inject constructor(private val dataManager: CharactersManager) :
     BaseViewModel<HomeIntent, HomeAction, HomeState>() {
     override fun intentToAction(intent: HomeIntent): HomeAction {
